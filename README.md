@@ -1,4 +1,4 @@
-# Directory Alpha v0.1
+# Directory - Alpha v0.1
 Description:
   Used to navigate through the Linux folder structure.
 
