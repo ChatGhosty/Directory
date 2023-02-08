@@ -12,4 +12,5 @@ Known Issues: Usually breaks and requires reloading Terminal.
 
 Important Notes:
   I was only able to get this running on Ubuntu and NOT Windows
+  
   Recommended Terminal Size: 132 x 50
