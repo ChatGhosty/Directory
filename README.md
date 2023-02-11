@@ -15,3 +15,5 @@ Known Issues: Usually breaks and requires reloading Terminal
 
 Important Notes:
   I was only able to get this running on Ubuntu and NOT Windows
+
+https://www.paypal.com/donate/?business=ES6X8G7BNYAZJ&amount=1&no_recurring=1&item_name=%241+USD+%3D+1+Starbucks+Coffee+Pod+OR+Roughly+enough+attention+span+for+1+new+feature+%2F+bug+fix.&currency_code=USD
