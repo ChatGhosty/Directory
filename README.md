@@ -16,4 +16,12 @@ Known Issues: Usually breaks and requires reloading Terminal
 Important Notes:
   I was only able to get this running on Ubuntu and NOT Windows
 
-https://www.paypal.com/donate/?business=ES6X8G7BNYAZJ&amount=1&no_recurring=1&item_name=%241+USD+%3D+1+Starbucks+Coffee+Pod+OR+Roughly+enough+attention+span+for+1+new+feature+%2F+bug+fix.&currency_code=USD
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="business" value="ES6X8G7BNYAZJ" />
+<input type="hidden" name="amount" value="1" />
+<input type="hidden" name="no_recurring" value="1" />
+<input type="hidden" name="item_name" value="$1 USD = 1 Starbucks Coffee Pod OR Roughly enough attention span for 1 new feature / bug fix." />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
