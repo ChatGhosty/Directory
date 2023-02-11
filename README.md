@@ -17,6 +17,7 @@ Important Notes:
   I was only able to get this running on Ubuntu and NOT Windows
 
 If you have any suggestions for feature updates / fixes / ways to improve the code: 
+
 Please email Chat_Ghosty@yahoo.com w/ Subject Directory (Rev #)
 
 [![Donate](https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/925c5a9e397363c6f7a477973fdeed485df5fdd9/dark.svg)](https://www.paypal.com/donate/?business=ES6X8G7BNYAZJ&amount=1&no_recurring=1&item_name=%241+will+buy+a+coffee+pod+%3D+enough+attention+span+to+fix+%2F+program+a+new+feature.&currency_code=USD)
